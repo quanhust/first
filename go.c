@@ -1,6 +1,9 @@
 #include<stdio.h>
 int main(){
-	HAHAHAHAH
+
+
+	prinf("demo2");
+
 	printf("chung ta la ai");
 	return 0;
 }
